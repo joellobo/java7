@@ -33,7 +33,17 @@ public class Main {
 		int million  =  1_000_000;
 		System.out.println(thousand + " ; " + million);
 
+		// Improved exception handling
+		try {
+			Integer age = Integer.getInteger("AAAA");
+		} catch (IllegalArgumentException | NullPointerException e) {
+		}
 		
+		// NEW FILE SYSTEM API (NIO 2.0)
+		
+		// FORK AND JOIN
+		
+		// SUPPORTING DYNAMISM
 	}
 
 }
