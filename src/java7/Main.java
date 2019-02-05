@@ -12,7 +12,7 @@ import java.util.TreeMap;
  * https://www.oreilly.com/learning/java7-features
  * @author joellobo@gmail.com
  */
-public class Ex1 {
+public class Main {
 
 	public static void main(String[] args) {
 		// LANGUAGE ENHANCEMENTS
