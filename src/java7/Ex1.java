@@ -11,7 +11,6 @@ import java.util.TreeMap;
  * Reference:
  * https://www.oreilly.com/learning/java7-features
  * @author joellobo@gmail.com
- *
  */
 public class Ex1 {
 
